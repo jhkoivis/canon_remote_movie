@@ -1,0 +1,241 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="ソース ファイル">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Command">
+      <UniqueIdentifier>{264acb96-5d47-4063-8484-54a58b465ab9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Command\EVF">
+      <UniqueIdentifier>{c2d06895-4eda-4ba7-844f-96a413202ed1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Camera">
+      <UniqueIdentifier>{2cf5f854-3dbd-4c5c-a8b0-25b815cc4c85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\Class">
+      <UniqueIdentifier>{dc916b4f-d9ab-42b6-b7a2-51e8d0953620}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ヘッダー ファイル\EDSDK">
+      <UniqueIdentifier>{6306f617-cdcf-409b-bb8e-465c4a791ed7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="リソース ファイル">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ActionButton.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="AEMode.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Av.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraControl.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraControlDlg.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="EvfAFMode.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="EVFPictureBox.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="EvfZoomButton.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ExposureComp.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageQuality.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Iso.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="MeteringMode.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="PropertyComboBox.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+    <ClCompile Include="Tv.cpp">
+      <Filter>ソース ファイル</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ActionButton.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="AEMode.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Av.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraControl.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraControlDlg.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="EvfAFMode.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="EVFPictureBox.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="EvfZoomButton.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="ExposureComp.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageQuality.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Iso.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="MeteringMode.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="PropertyComboBox.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Tv.h">
+      <Filter>ヘッダー ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\CloseSessionCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\Command.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\DoEvfAFCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\DownloadCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\GetPropertyCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\GetPropertyDescCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\NotifyCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\OpenSessionCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\PressShutterButtonCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\SaveSettingCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\SetCapacityCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\SetPropertyCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\TakePictureCommand.h">
+      <Filter>ヘッダー ファイル\Command</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\DownloadEvfCommand.h">
+      <Filter>ヘッダー ファイル\Command\EVF</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\DriveLensCommand.h">
+      <Filter>ヘッダー ファイル\Command\EVF</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\EndEvfCommand.h">
+      <Filter>ヘッダー ファイル\Command\EVF</Filter>
+    </ClInclude>
+    <ClInclude Include="Command\StartEvfCommand.h">
+      <Filter>ヘッダー ファイル\Command\EVF</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\CameraController.h">
+      <Filter>ヘッダー ファイル\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\CameraEvent.h">
+      <Filter>ヘッダー ファイル\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\CameraEventListener.h">
+      <Filter>ヘッダー ファイル\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\CameraModel.h">
+      <Filter>ヘッダー ファイル\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\CameraModelLegacy.h">
+      <Filter>ヘッダー ファイル\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera\Processor.h">
+      <Filter>ヘッダー ファイル\Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\ActionEvent.h">
+      <Filter>ヘッダー ファイル\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\ActionListener.h">
+      <Filter>ヘッダー ファイル\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\ActionSource.h">
+      <Filter>ヘッダー ファイル\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Observer.h">
+      <Filter>ヘッダー ファイル\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Synchronized.h">
+      <Filter>ヘッダー ファイル\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="Class\Thread.h">
+      <Filter>ヘッダー ファイル\Class</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Edsdk\Header\EDSDK.h">
+      <Filter>ヘッダー ファイル\EDSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Edsdk\Header\EDSDKErrors.h">
+      <Filter>ヘッダー ファイル\EDSDK</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Edsdk\Header\EDSDKTypes.h">
+      <Filter>ヘッダー ファイル\EDSDK</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\CameraControl.ico">
+      <Filter>リソース ファイル</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="CameraControl.rc">
+      <Filter>リソース ファイル</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="res\CameraControl.manifest" />
+  </ItemGroup>
+</Project>

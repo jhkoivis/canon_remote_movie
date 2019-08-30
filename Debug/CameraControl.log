@@ -1,0 +1,21 @@
+﻿  AEMode.cpp
+  Generating Code...
+  Compiling...
+  Tv.cpp
+  PropertyComboBox.cpp
+  MeteringMode.cpp
+  Iso.cpp
+  ImageQuality.cpp
+  ExposureComp.cpp
+  EvfZoomButton.cpp
+  EvfAFMode.cpp
+  EVFPictureBox.cpp
+c:\users\jhkoivis\autodet dropbox\juha koivisto\physics\projects\190828_new_camera\jsk_canon\vc\cameracontrol\evfpicturebox.cpp(132): warning C4244: 'argument': conversion from 'EdsUInt64' to 'int', possible loss of data
+  CameraControlDlg.cpp
+  CameraControl.cpp
+  Av.cpp
+  Generating Code...
+ActionButton.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+stdafx.obj : warning LNK4204: 'C:\Users\jhkoivis\AutoDet Dropbox\Juha Koivisto\physics\projects\190828_new_camera\jsk_canon\VC\CameraControl\Debug\vc141.pdb' is missing debugging information for referencing module; linking object as if no debug info
+ActionButton.obj : warning LNK4204: 'C:\Users\jhkoivis\AutoDet Dropbox\Juha Koivisto\physics\projects\190828_new_camera\jsk_canon\VC\CameraControl\Debug\vc141.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  CameraControl.vcxproj -> C:\Users\jhkoivis\AutoDet Dropbox\Juha Koivisto\physics\projects\190828_new_camera\jsk_canon\VC\CameraControl\Debug\CameraControl.exe

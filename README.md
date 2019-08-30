@@ -24,11 +24,12 @@ minimal changes to get sample program to take movies
 - In visual studio 2017: project->properties-> C/C++ -> Genreal -> linker -> add correct path to canon.dll
 - also, the windows kit 10 includes have to be added to headers... installing windows kit 10 and rebooting dit the trick, I think ... (complains about new.h if not correct)
   
-## Dependencies
+## Depedencies etc
 
 - Windows 10 (latest at 30.8.2019)
 - win sdk kit 10 (also 8.1 is installed)
 - tested with Canon eos 80D with memory card
 - canon ESDK (latest at 30.8.2019)
+- CC0 unless otherwise stated in the files
 
 

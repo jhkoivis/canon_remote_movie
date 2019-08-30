@@ -3,7 +3,7 @@ minimal changes to get sample program to take movies
 
 ## Quick start
 
-0. put camera in movie mode (see 2.) and connect USB cable, test with "EOS utility" that "remote movie" and everything else works 
+0. put camera in movie mode (see 2.) and connect USB cable, test with "EOS utility" that "remote movie" and everything else works , CLOSE eos utility
 1. .exe is in Debug/CameraControl.exe
 2. Start EVF (you should now see liveView == "movie shoot mode for EOS 80D")
 3. click "Take Movie" to start

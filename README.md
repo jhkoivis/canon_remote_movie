@@ -20,8 +20,8 @@ minimal changes to get sample program to take movies
 - TakePictureCommand.h
 - CameraControl.rc
 - stdafx.h (here override VINVER definition and the NT-ver definition, later I found out that they are first defined in project -> properties)
-- In visual studio 2017: project->properties-> C/C++ -> Genreal -> headers -> <add correct path to canon sdk headers>
-- In visual studio 2017: project->properties-> C/C++ -> Genreal -> linker -> <add correct path to canon.dll>
+- In visual studio 2017: project->properties-> C/C++ -> Genreal -> headers -> add correct path to canon sdk headers
+- In visual studio 2017: project->properties-> C/C++ -> Genreal -> linker -> add correct path to canon.dll
 - also, the windows kit 10 includes have to be added to headers... installing windows kit 10 and rebooting dit the trick, I think ... (complains about new.h if not correct)
   
 ## Dependencies
